@@ -1,0 +1,11 @@
+{
+  "name": "my-yarn-module",
+  "version": "1.0",
+  "description": "Learning yarn",
+  "main": "index.js",
+  "author": "Tom Kristian Thorsen",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
